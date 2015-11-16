@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<RootNamespace></RootNamespace>
+	<ProjectGuid>{0E8127B2-3005-8207-8CC3-A50D7CDDEB43}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_2_1;UNITY_5_2;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_REFLECTION_BUFFERS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_EVENT_QUEUE;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>d:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>d:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Astar\Scripts\AStarCallback.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarDiagonalHeuristic.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarLinkNode.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarManhattanHeuristic.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarNode.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarUnit.cs" />
+     <Compile Include="Assets\Astar\Scripts\AStarUtils.cs" />
+     <Compile Include="Assets\Astar\Scripts\BinaryHeapNode.cs" />
+     <Compile Include="Assets\Astar\Scripts\BinaryHeapUtils.cs" />
+     <Compile Include="Assets\Astar\Scripts\IAStarHeuristic.cs" />
+     <Compile Include="Assets\Astar\Scripts\IAStarUnit.cs" />
+     <Compile Include="Assets\Astar\Test\SceneGrid.cs" />
+     <Compile Include="Assets\Astar\Test\TestWorld.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Generic\VersionInformation.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NavMesh2D.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NavMesh2DBehaviour.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NavMesh2DConnection.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NavMesh2DNode.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NodeIndexQuadTree.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\NodeIndexQuadTreeNode.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Navmesh2D\OffMeshLink2D.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Utillities\CircularBuffer.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Utillities\GizmosExtra.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\Utillities\Range.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\__Navmesh2D Examples\Scripts\Mover.cs" />
+     <Compile Include="Assets\PigeonCoopToolkit\__Navmesh2D Examples\Scripts\PathFollower.cs" />
+     <Compile Include="Assets\Script\Camera\CameraFollowPlayer.cs" />
+     <Compile Include="Assets\Script\Camera\GeneralFuncController.cs" />
+     <Compile Include="Assets\Script\GM\BagProductPrefab.cs" />
+     <Compile Include="Assets\Script\GM\GameDate.cs" />
+     <Compile Include="Assets\Script\GM\ProductImage.cs" />
+     <Compile Include="Assets\Script\GM\TalkText.cs" />
+     <Compile Include="Assets\Script\Player\GoToTarget.cs" />
+     <Compile Include="Assets\Script\Player\OpenTownCanvas.cs" />
+     <Compile Include="Assets\Script\Player\PlayerMove.cs" />
+     <Compile Include="Assets\Script\Player\PlayerPro.cs" />
+     <Compile Include="Assets\Script\Town\CleanImage.cs" />
+     <Compile Include="Assets\Script\Town\InnPro.cs" />
+     <Compile Include="Assets\Script\Town\MakeTransaction.cs" />
+     <Compile Include="Assets\Script\Town\MarkketPro.cs" />
+     <Compile Include="Assets\Script\Town\MoneyPro.cs" />
+     <Compile Include="Assets\Script\Town\Note.cs" />
+     <Compile Include="Assets\Script\Town\SellPanel.cs" />
+     <Compile Include="Assets\Script\Town\SellProductButton.cs" />
+     <Compile Include="Assets\Script\Town\ShowImage.cs" />
+     <Compile Include="Assets\Script\Town\SureBuy.cs" />
+     <Compile Include="Assets\Script\Town\SureSell.cs" />
+     <Compile Include="Assets\Script\Town\TellTransactionPanel.cs" />
+     <Compile Include="Assets\Script\Town\Touch.cs" />
+     <Compile Include="Assets\Script\Town\TownPro.cs" />
+     <None Include="Assets\PigeonCoopToolkit\__SharedDemoAssets\_Shaders\Unlit Transparent Color.shader" />
+     <None Include="Assets\PigeonCoopToolkit\External\Editor\Poly2Tri\Poly2Tri Lic.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>d:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>d:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil">
+ <HintPath>d:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>d:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

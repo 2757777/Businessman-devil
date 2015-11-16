@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: c33d7df4cd3012c469c66559411fc208
+timeCreated: 1445797270
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arm_0
+    21300002: arm_1
+    21300004: arm_2
+    21300006: arm_3
+    21300008: arm_4
+    21300010: arm_5
+    21300012: arm_6
+    21300014: arm_7
+    21300016: arm_8
+    21300018: arm_9
+    21300020: arm_10
+    21300022: arm_11
+    21300024: arm_12
+    21300026: arm_13
+    21300028: arm_14
+    21300030: arm_15
+    21300032: arm_16
+    21300034: arm_17
+    21300036: arm_18
+    21300038: arm_19
+    21300040: arm_20
+    21300042: arm_21
+    21300044: LeatherArmor
+    21300046: chainmail
+    21300048: armour
+    21300050: arm_25
+    21300052: arm_26
+    21300054: arm_27
+    21300056: arm_28
+    21300058: Silver
+    21300060: arm_30
+    21300062: arm_31
+    21300064: arm_32
+    21300066: arm_33
+    21300068: arm_34
+    21300070: arm_35
+    21300072: arm_36
+    21300074: arm_37
+    21300076: arm_38
+    21300078: arm_39
+    21300080: arm_40
+    21300082: arm_41
+    21300084: arm_42
+    21300086: Gold
+    21300088: Iron
+    21300090: arm_45
+    21300092: arm_46
+    21300094: arm_47
+    21300096: arm_48
+    21300098: arm_49
+    21300100: arm_50
+    21300102: arm_51
+    21300104: arm_52
+    21300106: arm_53
+    21300108: arm_54
+    21300110: arm_55
+    21300112: arm_56
+    21300114: arm_57
+    21300116: arm_58
+    21300118: arm_59
+    21300120: arm_60
+    21300122: arm_61
+    21300124: arm_62
+    21300126: arm_63
+    21300128: arm_64
+    21300130: arm_65
+    21300132: arm_66
+    21300134: arm_67
+    21300136: arm_68
+    21300138: Sword
+    21300140: IronSword
+    21300142: arm_71
+    21300144: SilverSword
+    21300146: GoldSword
+    21300148: arm_74
+    21300150: arm_75
+    21300152: arm_76
+    21300154: arm_77
+    21300156: arm_78
+    21300158: arm_79
+    21300160: arm_80
+    21300162: arm_81
+    21300164: arm_82
+    21300166: arm_83
+    21300168: arm_84
+    21300170: arm_85
+    21300172: arm_86
+    21300174: arm_87
+    21300176: Meet
+    21300178: arm_89
+    21300180: Fish
+    21300182: arm_91
+    21300184: arm_92
+    21300186: arm_93
+    21300188: arm_94
+    21300190: arm_95
+    21300192: arm_96
+    21300194: Leather
+    21300196: arm_98
+    21300198: arm_99
+    21300200: arm_100
+    21300202: arm_101
+    21300204: arm_102
+    21300206: arm_103
+    21300208: arm_104
+    21300210: arm_105
+    21300212: arm_106
+    21300214: arm_107
+    21300216: arm_108
+    21300218: arm_109
+    21300220: arm_110
+    21300222: arm_111
+    21300224: arm_112
+    21300226: arm_113
+    21300228: arm_114
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arm_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 488
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 484
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 488
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 488
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 482
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 483
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 482
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 503
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 480
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 480
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 484
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 484
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 499
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 490
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 484
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeatherArmor
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 452
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chainmail
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: armour
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 449
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 448
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 452
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Silver
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 452
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 451
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 448
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 450
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 450
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 452
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_35
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 450
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 418
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 418
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 418
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gold
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 421
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Iron
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 420
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 417
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 416
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_48
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 416
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 418
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 390
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 386
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 388
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 388
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 388
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 389
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 386
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_68
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 390
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IronSword
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SilverSword
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GoldSword
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 352
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 358
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 358
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 356
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 354
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_81
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 354
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_82
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_85
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Meet
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 322
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fish
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 325
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 325
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_96
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leather
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_98
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 288
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 258
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_100
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 260
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_103
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_108
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 228
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

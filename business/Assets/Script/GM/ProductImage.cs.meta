@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: d93b56fdd84b9b6439741d9fac139be9
+timeCreated: 1445353206
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Product1: {fileID: 21300074, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product2: {fileID: 21300082, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product3: {fileID: 21300070, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product4: {fileID: 21300072, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product5: {fileID: 21300090, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product6: {fileID: 21300006, guid: d2a058a250b09df4e83ffacb9175c19c, type: 3}
+  - Product7: {instanceID: 0}
+  - Product8: {instanceID: 0}
+  - Product9: {instanceID: 0}
+  - Product10: {instanceID: 0}
+  - Product11: {instanceID: 0}
+  - Product12: {instanceID: 0}
+  - Product13: {instanceID: 0}
+  - Product14: {instanceID: 0}
+  - Product15: {instanceID: 0}
+  - Product16: {instanceID: 0}
+  - Product17: {instanceID: 0}
+  - Product18: {instanceID: 0}
+  - Product19: {instanceID: 0}
+  - Product20: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
